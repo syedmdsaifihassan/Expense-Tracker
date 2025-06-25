@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/syedmdsaifihassan/Expense-Tracker/static/css/main.042dcaad.chunk.css",
-    "main.js": "/syedmdsaifihassan/Expense-Tracker/static/js/main.3e5c03a8.chunk.js",
-    "main.js.map": "/syedmdsaifihassan/Expense-Tracker/static/js/main.3e5c03a8.chunk.js.map",
-    "runtime~main.js": "/syedmdsaifihassan/Expense-Tracker/static/js/runtime~main.2f2957cd.js",
-    "runtime~main.js.map": "/syedmdsaifihassan/Expense-Tracker/static/js/runtime~main.2f2957cd.js.map",
-    "static/js/2.6c811e04.chunk.js": "/syedmdsaifihassan/Expense-Tracker/static/js/2.6c811e04.chunk.js",
-    "static/js/2.6c811e04.chunk.js.map": "/syedmdsaifihassan/Expense-Tracker/static/js/2.6c811e04.chunk.js.map",
-    "index.html": "/syedmdsaifihassan/Expense-Tracker/index.html",
-    "precache-manifest.0b455d083ccc54f26b2f0144b8332276.js": "/syedmdsaifihassan/Expense-Tracker/precache-manifest.0b455d083ccc54f26b2f0144b8332276.js",
-    "service-worker.js": "/syedmdsaifihassan/Expense-Tracker/service-worker.js",
-    "static/css/main.042dcaad.chunk.css.map": "/syedmdsaifihassan/Expense-Tracker/static/css/main.042dcaad.chunk.css.map"
+    "main.css": "/Expense-Tracker/static/css/main.042dcaad.chunk.css",
+    "main.js": "/Expense-Tracker/static/js/main.3e5c03a8.chunk.js",
+    "main.js.map": "/Expense-Tracker/static/js/main.3e5c03a8.chunk.js.map",
+    "runtime~main.js": "/Expense-Tracker/static/js/runtime~main.1bd39e77.js",
+    "runtime~main.js.map": "/Expense-Tracker/static/js/runtime~main.1bd39e77.js.map",
+    "static/js/2.6c811e04.chunk.js": "/Expense-Tracker/static/js/2.6c811e04.chunk.js",
+    "static/js/2.6c811e04.chunk.js.map": "/Expense-Tracker/static/js/2.6c811e04.chunk.js.map",
+    "index.html": "/Expense-Tracker/index.html",
+    "precache-manifest.f80362a140ef6e7374ff54ae48493f2d.js": "/Expense-Tracker/precache-manifest.f80362a140ef6e7374ff54ae48493f2d.js",
+    "service-worker.js": "/Expense-Tracker/service-worker.js",
+    "static/css/main.042dcaad.chunk.css.map": "/Expense-Tracker/static/css/main.042dcaad.chunk.css.map"
   }
 }
